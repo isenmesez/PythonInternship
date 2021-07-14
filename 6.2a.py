@@ -1,4 +1,3 @@
-print(6.2)
 ip = input('Введите ip адрес:')
 ip1 = ip.split('.')
 n = ip.count('.')
