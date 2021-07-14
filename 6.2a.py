@@ -15,6 +15,6 @@ if n == 3:
         else:
             print('unused')
     else:
-        print('Неправильный IP-адрес', n)
+        print('Неправильный IP-адрес')
 else:
-    print('Неправильный IP-адрес',n)
+    print('Неправильный IP-адрес')
