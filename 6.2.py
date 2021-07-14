@@ -1,5 +1,4 @@
 print(6.2)
-b = True
 for i in range(5):
     ip = input('Введите ip адрес:')
     ip1 = ip.split('.')
